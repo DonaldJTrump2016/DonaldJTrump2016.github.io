@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="GBK" />
+<title>C2OI游戏&代码</title>
+<style>
+body
+{
+	background-image:url('https://cn.bing.com/th?id=OHR.HippieTown_ZH-CN0980866245_1920x1080.jpg&rf=LaDigue_1920x1080.jpg');
+}
+</style>
+</head>
+<body>
+	<h1 style="color:red;">BattleSimulator,C2OI。</h1>
+	<h4 style="color:red;">版本:</h4> 
+	<a href="BS 3.1.1.rar">3.1.1</a>
+	<a href="BS 3.1.2">3.1.2</a>
+	<a href="https://www.luogu.com.cn/team/36640">团队链接</a> 
+	<h4 style="color:purple;">友情链接:</h4><p>C2OI 官网:<a href="donaldjtrump2016.github.io/index">点击进入</a></p> 
+</body>
+
+</html>
+
